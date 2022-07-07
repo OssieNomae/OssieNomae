@@ -7,13 +7,13 @@
 <!--  -->
 
 <h1 align="center">Hi 👋, I'm <a href="https://ossienomae.com">Ossie Nomae</a></h1>
-<h3 align="center">A passionate full-stack developer from Finland</h3>
+<h4 align="center">A passionate full-stack developer from Finland</h4>
 
 <!--  -->
 <!-- Skills & Knowledge-->
 <!--  -->
 
-<h4 align="left">🤖 Programming Languages, Frameworks & Modules:</h4>
+<h3 align="left">🤖 Programming Languages, Frameworks & Modules:</h3>
 
 ![Lua](https://img.shields.io/badge/Lua-007ACC?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,20 +33,20 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h4 align="left">💾 Databases:</h4>
+<h3 align="left">💾 Databases:</h3>
 
 ![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<h4 align="left">☁️ Cloud Services:</h4>
+<h3 align="left">☁️ Cloud Services:</h3>
 
 ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Google cloud](https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white)
 
-<h4 align="left">🛠 Tools:</h4>
+<h3 align="left">🛠 Tools:</h3>
 
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black)
@@ -55,7 +55,17 @@
 ![Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF?style=for-the-badge&logo=adobe%20audition&logoColor=black)
 ![Vegas Pro](https://img.shields.io/badge/Vegas%20Pro-024DA1?style=for-the-badge&logoColor=black)
 
-<h4 align="left">⚙️ Game Engines:</h4>
+<h3 align="left">⚙️ Game Engines:</h3>
 
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
+
+<h2 align="center">🌟 Stats 🌟</h2>
+<p align=center>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=OssieNomae&theme=github-dark-blue&border=61dafb&hide_border=true" alt="OssieNomae"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=OssieNomae&count_private=true&show_icons=true&theme=github_dark"/>
+  </a>
+</p>
