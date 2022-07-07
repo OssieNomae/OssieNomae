@@ -7,13 +7,12 @@
 <!--  -->
 
 <h1 align="center">Hi 👋, I'm <a href="https://ossienomae.com">Ossie Nomae</a></h1>
-<h4 align="center">A passionate full-stack developer from Finland</h4>
+<p align="center">A passionate full-stack developer from Finland</p>
 
 <!--  -->
 <!-- Skills & Knowledge -->
 <!--  -->
 
-<hr>
 <h3 align="left">🤖 Programming Languages, Frameworks & Modules:</h3>
 
 ![Lua](https://img.shields.io/badge/Lua-007ACC?style=for-the-badge&logo=lua&logoColor=white)
@@ -65,7 +64,6 @@
 <!-- Github stats -->
 <!--  -->
 
-<hr>
 <h2 align="center">🌟 Stats 🌟</h2>
 <p align=center>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
