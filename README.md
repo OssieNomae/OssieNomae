@@ -9,7 +9,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="https://ossienomae.com">Ossie Nomae</a></h1>
 <p align="center">A passionate end-to-end web/game developer from Finland 🇫🇮</p>
 
-<h2 align="center">About me</a></h2>
+<h2 align="center">About Me</a></h2>
 
 - ⭐ currently working on **web-development & Roblox-development**
 - 💀 mostly working on **private repositories**
