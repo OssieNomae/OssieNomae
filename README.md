@@ -76,13 +76,14 @@
 <h4 align="left">🖥️ OS:</h4>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch_Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Arch_Linux](https://img.shields.io/badge/Arch_Linux%20⭐-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux%20📡-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](	https://img.shields.io/badge/Windows%20👾-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <h4 align="left">📚 Learning:</h4>
 
+![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 <!--  -->
